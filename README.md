@@ -1,4 +1,8 @@
 # UNITE Data Crawler and Readers
+
+Shared architecture, development workflows, and agent instructions:
+[UNITE project documentation](https://github.com/dkfz-unite/.github/blob/main/README.md).
+
 CLI applications for crawling and reading OMICS data from the file system.
 
 
